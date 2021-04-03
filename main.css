@@ -182,14 +182,14 @@
 
 h1 {
     color: #0A1691;
-    font-size: 25.6px; /*1.6em;*/
+    font-size: 1.6em;
 /*    font-weight: 300;*/
     text-align: left;
     }
 
 h2 {
     color: black;
-    font-size: 19.2px; /*1.2em;*/
+    font-size: 1.2em;
 /*    font-weight: 300;*/
 /*    font-style: italic;*/
     text-align: left;
@@ -197,13 +197,13 @@ h2 {
 
 h3 {
     color: black;
-    font-size: 16px; /*1.0em;*/
+    font-size: 1.0em;
 /*    font-weight: 300;*/
     /*font-style: italic;*/
     }
 p {
     color: black;
-    font-size: 16px; /*1.0em;*/
+    font-size: 1.0em;
 /*    font-weight: 300;*/
     /*font-style: italic;*/
     }
