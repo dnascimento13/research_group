@@ -26,7 +26,8 @@
     font-weight: normal;
     font-size: 1.0em;
     text-align: center;
-    padding: 25px;
+    padding: 10px 25px ;
+/*    border: 4px solid orange;*/
     }
 
 #topnav a:hover {
@@ -58,6 +59,7 @@
     width: 920px;
 /*    height: 480px;*/
     border: 1px;
+    font-size: 1.0em;
     position: relative;
     margin-top: 0px;
     text-align: left;
@@ -68,6 +70,7 @@
     width: 920px;
     /*height: 1200px;*/
     border: 1px;
+    font-size: 1.0em;
     position: relative;
     margin-top: 0px;
     text-align: left;
